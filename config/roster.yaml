@@ -1,0 +1,401 @@
+---
+-
+  name: Alyntu
+  characters:
+    - "Alyntrael"
+    - "Alyntu"
+    - "Alyntwo"
+    - "Felorfirn"
+    - "Isandara"
+    - "Kraie"
+    - "Dalidas"
+    - "Alyntria"
+    - "Alliala"
+  rank: Senior
+  rank_num: 3
+-
+  name: Skwerly
+  characters:
+    - "Skwerlstorm"
+    - "Skwerly"
+    - "Panastorm"
+    - "Skwerlytail"
+    - "Felskwerly"
+  rank: Senior
+  rank_num: 3
+-
+  name: Bree
+  characters:
+    - "Dolceamore"
+    - "Dollce"
+    - "Breebear"
+    - "Donût"
+    - "Breé"
+    - "Dolcevita"
+    - "Felbreezey"
+    - "Beebeé"
+    - "Breezéy"
+    - "Easybreézy"
+    - "Notouchey"
+    - "Dolcea"
+  rank: Senior
+  rank_num: 3
+-
+  name: Concept
+  characters:
+    - "Bojanglezz"
+    - "Jorgé"
+    - "Vallancia"
+    - "Astyria"
+    - "Conceptual"
+    - "Conspirator"
+    - "Hystería"
+    - "Nicasia"
+    - "Vallani"
+  rank: Senior
+  rank_num: 3
+-
+  name: Vinn
+  characters:
+    - "Vînn"
+    - "Notvin"
+    - "Vìnn"
+  rank: Senior
+  rank_num: 3
+-
+  name: Mettle
+  characters:
+    - "Locksor"
+    - "Mettlegear"
+    - "Mettletides"
+    - "Baalzacks"
+  rank: Senior
+  rank_num: 3
+-
+  name: Roverter
+  characters:
+    - "Aethab"
+  rank: Senior
+  rank_num: 3
+-
+  name: Blankiepoo
+  characters:
+    - "Blankiepoo"
+    - "Blankiesap"
+    - "Blankeypooh"
+  rank: Senior
+  rank_num: 3
+-
+  name: Tes
+  characters:
+    - "Tês"
+    - "Têsley"
+    - "Amoondrisa"
+    - "Samââra"
+    - "Balind"
+    - "Mcstaggers"
+  rank: Manager
+  rank_num: 4
+-
+  name: Rebound
+  characters:
+    - "Ukiyami"
+    - "Shamreebs"
+    - "Illireebs"
+    - "Reebies"
+    - "Malatia"
+    - "Jiqing"
+  rank: Manager
+  rank_num: 4
+-
+  name: Regzz
+  characters:
+    - "Regzz"
+    - "Protô"
+    - "Frôstbitê"
+    - "Miltiadês"
+    - "Nukeum"
+    - "Emông"
+  rank: Manager
+  rank_num: 4
+-
+  name: Sanctus
+  characters:
+    - "Parizz"
+    - "Holyenough"
+    - "Healingtots"
+    - "Sunyia"
+    - "Enougharrows"
+    - "Kuragnin"
+    - "Minicus"
+    - "Deadlycoil"
+    - "Inacceptable"
+  rank: Manager
+  rank_num: 4
+-
+  name: Ryast
+  characters:
+    - "Ryast"
+    - "Serpentfire"
+    - "Loveraptor"
+    - "Azuregaze"
+    - "Prerogative"
+    - "Antecedent"
+  rank: Manager
+  rank_num: 4
+-
+  name: Path
+  characters:
+    - "Pathsboomy"
+    - "Pathoriane"
+    - "Drfeels"
+    - "Imdrùnk"
+    - "Pathsmeow"
+    - "Paymeirunyou"
+    - "Fastfrannie"
+    - "Pathsheals"
+  rank: Manager
+  rank_num: 4
+-
+  name: Morrvahria
+  characters:
+    - "Morrvahria"
+    - "Morduncan"
+    - "Nastrius"
+    - "Klairance"
+  rank: Manager
+  rank_num: 4
+-
+  name: LilBeneditto
+  characters:
+    - "Lilbeneditto"
+    - "Lilobamadin"
+    - "Lilfrostmage"
+    - "Lildoolittle"
+    - "Lildefstrike"
+    - "Lilriptide"
+    - "LilSwagform"
+  rank: Manager
+  rank_num: 4
+-
+  name: Daethis
+  characters:
+    - "Daethis"
+  rank: Manager
+  rank_num: 4
+-
+  name: KFC
+  characters:
+    - "Kfcbaer"
+  rank: Manager
+  rank_num: 4
+-
+  name: CousinAvi
+  characters:
+    - "Cousinavi"
+    - "Viklund"
+    - "Narelan"
+  rank: Manager
+  rank_num: 4
+-
+  name: Conejita
+  characters:
+    - "Conejita"
+    - "Pandita"
+  rank: Manager
+  rank_num: 4
+-
+  name: Brabant
+  characters:
+    - "Bräbant"
+    - "Brabànt"
+  rank: Manager
+  rank_num: 4
+-
+  name: Garman
+  characters:
+    - "Garmân"
+    - "Brownbeâr"
+    - "Pinkbeâr"
+    - "Redbeâr"
+    - "Mintbeâr"
+    - "Purplebeâr"
+  rank: Manager
+  rank_num: 4
+-
+  name: SilencedRegret
+  characters:
+    - "Selatre"
+    - "Baemor"
+  rank: Manager
+  rank_num: 4
+-
+  name: Wheredaheals
+  characters:
+    - "Wheredaheals"
+  rank: Manager
+  rank_num: 4
+-
+  name: Snuggles
+  characters:
+    - "Snugglés"
+    - "Killérshock"
+    - "Snugglémé"
+    - "Snugglé"
+    - "Snügglémé"
+    - "Cuddléme"
+    - "Stickér"
+    - "Snügglés"
+    - "Snuggleme"
+    - "Membabear"
+    - "Snugglmehard"
+  rank: Manager
+  rank_num: 4
+-
+  name: Teerts
+  characters:
+    - "Teerts"
+    - "Senjeho"
+    - "Teertsveng"
+    - "Teertsprot"
+    - "Lithiå"
+  rank: Manager
+  rank_num: 4
+-
+  name: Sinthice
+  characters:
+    - "Aphellany"
+    - "Sinthice"
+    - "Ilaiyara"
+    - "Aeverlade"
+  rank: Manager
+  rank_num: 4
+-
+  name: Rigo
+  characters:
+    - "Lilrigo"
+    - "Nightbloom"
+    - "Sakriledge"
+    - "Rigoheals"
+    - "Shamrigo"
+    - "Rìgo"
+    - "Vagabondsoul"
+    - "Tinytehrror"
+    - "Stinkymists"
+    - "Deadrigo"
+    - "Luzbelle"
+  rank: Manager
+  rank_num: 4
+-
+  name: Flavortown Gen
+  characters:
+    - "Genvezax"
+    - "Strychnidin"
+  rank: Manager
+  rank_num: 4
+-
+  name: Devildog
+  characters:
+    - "Devildóg"
+    - "Devildòg"
+    - "Boothappy"
+    - "Bóóbs"
+  rank: Manager
+  rank_num: 4
+-
+  name: Skurt
+  characters:
+    - "Anyaatalante"
+    - "Aldalóme"
+    - "Undómiel"
+    - "Elcoire"
+    - "Atalantë"
+    - "Shæmus"
+    - "Neytírì"
+    - "Akällabêth"
+    - "Silmarilli"
+    - "Ascaranga"
+    - "Hellvorn"
+    - "Nólëcoi"
+  rank: Manager
+  rank_num: 4
+-
+  name: Rokuris
+  characters:
+    - "Rokuris"
+    - "Rikuris"
+    - "Rekuris"
+    - "Roklock"
+    - "Roknpally"
+    - "Rokhunter"
+    - "Rykuris"
+    - "Rukuris"
+  rank: Manager
+  rank_num: 4
+-
+  name: Kovu
+  characters:
+    - "Kovu"
+    - "Sourmilk"
+  rank: Manager
+  rank_num: 4
+-
+  name: Fionaa
+  characters:
+    - "Fîonaa"
+    - "Stormei"
+    - "Caspera"
+    - "Ârrowyn"
+  rank: Junior
+  rank_num: 5
+-
+  name: Spooky
+  characters:
+    - "Spookyshawty"
+  rank: Junior
+  rank_num: 5
+-
+  name: Deavanorne
+  characters:
+    - "Deavanorne"
+    - "Zamolxes"
+  rank: Junior
+  rank_num: 5
+-
+  name: Obvious
+  characters:
+    - "Mánbearcat"
+    - "Unholyslicer"
+    - "Itissntme"
+    - "Obvioús"
+    - "Cuchulaìnn"
+    - "Spellpowèr"
+    - "Obvìous"
+    - "Cuchuláinn"
+    - "Consfearàcy"
+    - "Itisntme"
+    - "Obvioûs"
+  rank: Junior
+  rank_num: 5
+-
+  name: Ochyro
+  characters:
+    - "Ochyro"
+  rank: Junior
+  rank_num: 5
+-
+  name: Gnostalgia
+  characters:
+    - "Gnostalgia"
+    - "Ironnbeard"
+    - "Gnoregrets"
+    - "Pawcific"
+    - "Gnutmeg"
+  rank: Junior
+  rank_num: 5
+-
+  name: Think Cat
+  characters:
+    - "Nekodesu"
+  rank: Junior
+  rank_num: 5
